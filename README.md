@@ -1,5 +1,5 @@
-### Hi there, I'm Tomek  👋
-## I'm a Junior Python Candicate!
+### Hi there,
+## I'm a Junior Python Candicate
 
 - 🔭 I’m currently working on my own projects!
 - 🌱 I’m currently learning Python basics 
