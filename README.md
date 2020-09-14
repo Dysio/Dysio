@@ -19,3 +19,10 @@
 
 <br />
 <br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Dysio's Github Stats" src="https://github-readme-stats.Dysio.vercel.app/api?username=Dysio&show_icons=true&hide_border=true" />
+
+</details>
