@@ -6,10 +6,15 @@
 - 🥅 2020 Goals: Learn Python
 - ⚡ Fun fact: I love to listen electronic music
 
+### Work in progress
+- [ ] Lightweight Django
+- [ ] Tkinter Codemy course
+
 <br />
 
 ### Languages and Tools:
-
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
+<img align="left" alt="Python" width="26px" src="https://newhorizons.com.sg/wp-content/uploads/2019/04/python.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
