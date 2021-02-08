@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my own projects!
 - 🌱 I’m currently learning Python basics 
-- 🥅 2020 Goals: Learn Python
+- 🥅 2021 Goals: Learn Python
 - ⚡ Fun fact: I love to listen electronic music
 
 ### Work in progress
