@@ -9,6 +9,7 @@
 ### Work in progress
 - [ ] Lightweight Django
 - [ ] Tkinter Codemy course
+- [ ] [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2021) Week 6/10
 
 <br />
 
